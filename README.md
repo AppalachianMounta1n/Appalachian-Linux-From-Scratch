@@ -1,1 +1,2 @@
 # Appalachian-Linux-From-Scratch
+I've started LFS a few times but never got too far into it, so this is going to be a repository for me going through the [stable systemd](https://www.linuxfromscratch.org/lfs/view/stable-systemd/) version of the project.
