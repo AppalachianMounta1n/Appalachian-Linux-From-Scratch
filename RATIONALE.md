@@ -14,4 +14,4 @@ These packages will not be added as they are older versions of existing librarie
 - libtiff.so.4
 - libpng15.s0
 
-I will be including both Python2 and Python 3 installations.
+I will be including both Python2 and Python 3 installations. I will also be including the most recent stable Rust and Cargo builds by default.
